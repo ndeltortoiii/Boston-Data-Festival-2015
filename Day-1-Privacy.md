@@ -2,13 +2,14 @@
 
 omnibus data protection laws
 
-
 The privacy act, don’t have omnibus broad based legislation used by the private sector
-*Germany: employer, lender, legislative, and constitutionally protection
-*on average 1200 pieces of data on each person in US
+
+Germany: employer, lender, legislative, and constitutionally protection
+
+on average 1200 pieces of data on each person in US
 #International Laws
-*Convention #108
-*OECD Guidelines
+Convention #108
+OECD Guidelines
 
 #Standards
 *27000 Thousand Series Standard: Security information
