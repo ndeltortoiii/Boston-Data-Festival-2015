@@ -1,6 +1,9 @@
 #Data Protection Law
-#omnibus data protection laws
-#The privacy act, don’t have omnibus broad based legislation used by the private sector
+
+omnibus data protection laws
+
+
+The privacy act, don’t have omnibus broad based legislation used by the private sector
 *Germany: employer, lender, legislative, and constitutionally protection
 *on average 1200 pieces of data on each person in US
 #International Laws
