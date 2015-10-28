@@ -191,7 +191,9 @@ be transparent when you are expected to be on 3rd base and you are still warming
 can’t make gold out of hay
 
 ——————————————————————————————
+
 8:00 PM “Applying Predictive Analytics in the Healthcare Industry to Enhance Productivity and Achieve Cost Savings” Paul Bradley, ZirMed
+
 ——————————————————————————————
 ###Questions
 Secondary market for finding if individuals over-billed and you get a chunk of the over-billing
